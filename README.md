@@ -6,7 +6,7 @@
 ## Alunos
 |Matrícula | Aluno |
 | -- | -- |
-| 18/0127641 |  Matheus Afonso de Souza |
+| 18/0127641 | Matheus Afonso de Souza |
 | 18/0138545 | Thiago Mesquita Peres Nunes de Carvalho |
 
 ## Sobre 
@@ -15,6 +15,7 @@ Resolução de problemas de grafos de juízes online.
 Foram resolvidos os seguintes problemas:
 
 - https://leetcode.com/problems/unique-paths/
+- https://leetcode.com/problems/trapping-rain-water/
 
 
 ## Screenshots
