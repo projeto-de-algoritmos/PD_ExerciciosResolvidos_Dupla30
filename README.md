@@ -17,6 +17,7 @@ Foram resolvidos os seguintes problemas:
 - https://leetcode.com/problems/unique-paths/
 - https://leetcode.com/problems/trapping-rain-water/
 - https://leetcode.com/problems/maximum-profit-in-job-scheduling/
+- https://leetcode.com/problems/triangle/
 
 
 ## Screenshots
