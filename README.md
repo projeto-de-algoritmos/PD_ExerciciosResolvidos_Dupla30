@@ -19,17 +19,10 @@ Foram resolvidos os seguintes problemas:
 - https://leetcode.com/problems/maximum-profit-in-job-scheduling/
 - https://leetcode.com/problems/triangle/
 
-
-## Screenshots
-Adicione 3 ou mais screenshots do projeto em funcionamento.
+## Apresentação
+A apresentação do projeto está presente no repositório.
 
 ## Instalação 
 Linguagem: Python
 
 Para rodar o projeto, vá aos links dos exercícios resolvidos e submeta os mesmos aos juízes.
-
-## Uso 
-Explique como usar seu projeto caso haja algum passo a passo após o comando de execução.
-
-## Outros 
-Quaisquer outras informações sobre seu projeto podem ser descritas abaixo.
